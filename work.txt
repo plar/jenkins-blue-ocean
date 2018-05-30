@@ -3,3 +3,4 @@ File for updates (simulate work).
 Start here:
 v1: bla-bla-bla
 v2: ah oh
+v3: add w1 support
